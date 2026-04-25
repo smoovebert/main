@@ -1,4 +1,5 @@
 backend/.venv/
 backend/qda.db
+backend/__pycache__/
 frontend/node_modules/
 frontend/dist/
